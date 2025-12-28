@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I'm Yitong Li, a CS undergraduate student from HKU.
+
+## I am interested in AI Agent and many other topics in AI. 
+
+## I will be more than glad to make friends with you!
 
 <!--
 **Lyt060814/Lyt060814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
