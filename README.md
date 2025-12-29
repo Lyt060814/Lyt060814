@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-I'm Yitong Li, a CS undergraduate student from HKU.
+I'm Yitong Li, a CS undergraduate student at HKU.
 
 I am interested in AI Agent and many other topics in AI. 
 <!--
