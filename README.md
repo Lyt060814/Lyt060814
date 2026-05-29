@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Yitong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyt060814)](https://github.com/anuraghazra/github-readme-stats)
+![Yitong's GitHub stats](https://github-readme-stats-alpha-rust-48.vercel.app/api?username=Lyt060814)
