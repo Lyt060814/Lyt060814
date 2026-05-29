@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" width="60%" src="https://github-readme-stats-alpha-rust-48.vercel.app/api?username=Lyt060814&hide_title=false&hide_border=false&show_icons=true&include_all_commits=false&line_height=21&border_radius=0" />
+<img align="left" width="57.5%" src="https://github-readme-stats-alpha-rust-48.vercel.app/api?username=Lyt060814&hide_title=false&hide_border=false&show_icons=true&include_all_commits=false&line_height=21&border_radius=0" />
